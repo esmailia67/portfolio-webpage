@@ -19,3 +19,7 @@ a:active {color: pink; }
   border: 10px solid black;
   margin: 20px;
 }
+
+.align-center {
+  text-align: center;
+}
