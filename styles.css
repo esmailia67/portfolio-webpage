@@ -33,3 +33,10 @@ a:active {color: pink; }
 .background {
     background-color: #FFA500;
 }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
