@@ -42,14 +42,21 @@ img {
   margin: 0 auto;
 }
 
-main, header, footer {
-  background-color: wheat;
-  padding: 10px;
+main {
+  background-color: #F0FFFF;
+  padding: 20px;
+  width: 90%;
+}
+
+header, footer {
+  background-color: #87CEFA;
+  padding: 20px;
+  width: 90%;
 }
 
 body {
   margin: 0 auto;
   width: 36%;
-  background-color: wheat;
+  background-color: #FFE4C4;
 }
 
