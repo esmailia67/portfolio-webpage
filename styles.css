@@ -24,7 +24,7 @@ a:active {color: pink; }
   text-align: center;
 }
 
-p, h {
+p, h, ul, ol {
   font-family: Arial, sans-serif;
   font-size: 14px;
   color: #87CEFA;
