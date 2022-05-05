@@ -47,10 +47,17 @@ main {
   width: 90%;
 }
 
-header, footer {
+header {
   background-color: #87CEFA;
   padding: 20px;
   width: 90%;
+}
+
+footer {
+  background-color: #87CEFA;
+  padding: 20px;
+  width: 90%;
+  height: 30px;
 }
 
 body {
