@@ -35,7 +35,7 @@ p, h, ul, ol {
 }
 
 img {
-  width: 500px;
+  width: 100%;
   border: 1px solid black;
   display: block;
   margin: 0 auto;
